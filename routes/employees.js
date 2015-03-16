@@ -1,3 +1,4 @@
+
  var employees = [
             {"id": 1, "firstName": "Merriam", "lastName": "Dingcong", "managerId": 2, "managerName": "YamGwapa","Motto": "In God We Trust.", "reports": 1, "title": "Nurse And Research Associate", "department": "Call Center", "cellPhone": "0943-5763208", "officePhone": "254-5716", "email": "yammercado@yahoo.com", "city": "DANAO, CITY", "pic": "yam.jpg", "twitterId": "@yams"},
             {"id": 2, "firstName": "Joshua Emmanuel", "lastName": "Dingcong", "managerId": 0, "managerName": "Shuaki", "Motto": "Be Who You Want to Be, Not What Others Want You To See.", "reports": 1, "title": "President and CEO", "department": "Ionic Mobile Development", "cellPhone": "0923-4599349", "officePhone": "254-5716", "email": "joemyams@yahoo.com", "city": "CEBU, CITY", "pic": "joemyams.jpg", "twitterId": "@joemyams"},
